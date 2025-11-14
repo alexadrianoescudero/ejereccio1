@@ -49,7 +49,7 @@ java-microservices-app
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 17 or higher
 - Maven
 
 ### Running the Microservices
