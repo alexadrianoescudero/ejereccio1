@@ -50,7 +50,7 @@ java-microservices-app
 ### Prerequisites
 
 - Java 17 or higher
-- Maven
+- Gradle
 
 ### Running the Microservices
 
